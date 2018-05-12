@@ -1,0 +1,32 @@
+_repo: Pietari-Schlemihl-in-eriskummalliset-el-m-nvaiheet_36834
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chamisso, Adelbert von
+    aliases:
+    - Chamisso, Adalbert von
+    - Boncourt, Louis Charles Adélaide de Chamisso de
+    - Boncourt, Louis Charles Adelaide de Chamisso de
+    - Von Chamisso, Adelbert
+    birthdate: 1781
+    deathdate: 1838
+    gutenberg_agent_id: '1779'
+    url: http://www.gutenberg.org/2009/agents/1779
+    wikipedia: http://en.wikipedia.org/wiki/Adelbert_von_Chamisso
+description: ''
+gutenberg_issued: '2011-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36834'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fables'
+title: Pietari Schlemihl'in eriskummalliset elämänvaiheet
+url: http://www.gutenberg.org/ebooks/36834
