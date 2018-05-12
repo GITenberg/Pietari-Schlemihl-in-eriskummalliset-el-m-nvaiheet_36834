@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1779
     wikipedia: http://en.wikipedia.org/wiki/Adelbert_von_Chamisso
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36834#Pietari-Schlemihl-in-eriskummalliset-el-m-nvaiheet
 gutenberg_issued: '2011-07-24'
 gutenberg_type: Text
 identifiers:
